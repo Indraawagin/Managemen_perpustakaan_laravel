@@ -4,7 +4,7 @@ Terimakasih!	Css : Boostrap 4
 Framework : Laravel
 
 # Fitur - Fitur
-  -Login User : 
+  - Login User : 
     - Melakukan transaksi pinjam buku.
     - Memvalidasi jika user sudah mengembalikan buku.
 
