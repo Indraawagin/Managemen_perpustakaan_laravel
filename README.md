@@ -6,7 +6,7 @@ Sebuah aplikasi perpustakaan sederhana yang berfungsi untuk mempermudah dalam ha
 # Fitur - Fitur
   - Login User : 
     - Melakukan transaksi pinjam buku.
-    - Memvalidasi jika user sudah mengembalikan buku.
+    - Memvalidasi jika user ingin mengembalikan buku.
 
  - Login Admin :
     - Manage Anggota.
