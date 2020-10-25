@@ -14,3 +14,11 @@ Framework : Laravel
     - Manage User Login.
     - Melakukan transaksi pinjam buku.
     - Melakukan validasi jika user sudah mengembalikan buku.
+  
+# Cara Login
+  - Admin
+    - Username : admin
+    - password : 1234567
+  - User
+    - Username : user1
+    - password : 1234567
