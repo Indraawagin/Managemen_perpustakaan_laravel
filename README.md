@@ -1,7 +1,7 @@
 # Aplikasi Managemen Perpustakaan
 Sebuah aplikasi perpustakaan sederhana yang berfungsi untuk mempermudah dalam hal meminjam dan mengembalikan buku secara online maupun offline
-Css : Boostrap 4
-Framework : Laravel
+- Css : Boostrap 4
+- Framework : Laravel
 
 # Fitur - Fitur
   - Login User : 
